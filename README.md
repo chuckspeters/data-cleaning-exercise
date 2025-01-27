@@ -2,21 +2,21 @@
 #A dashboard showing Cars,Years, makes and prices and thier distribution across different states in America.
 This dashboard was built from a dataset of various car makes and their prices and years.
 Below are my data cleaning checklist:
-Understanding the Data
-handling blank cells
-Removing duplicates
-Correcting and formatting data types
-Checking for inconsistencies.
-Tabulizing the dataset
+- Understanding the Data
+- handling blank cells
+- Removing duplicates
+- Correcting and formatting data types
+- Checking for inconsistencies.
+- Tabulizing the dataset
 
 After cleaning my dataset, i Loaded it into powerbi. created a new measure to help calculate the total number of cars using the unique VIN numbers in the dataset. Then i showed KPIs and visualization. with the use of different visualization tools,I created a dashboard to show the following:
 
-Total number of cars
-Distribution of the Car makes in various cities
-Average Price of Car makes by year
-total number of each car make in the dataset
-total number of cars by each state
-total number of each car make and thier average prices.
+- Total number of cars
+- Distribution of the Car makes in various cities
+- Average Price of Car makes by year
+- total number of each car make in the dataset
+- Total number of cars by each state
+- Total number of each car make and thier average prices.
 
 Thank you.
 
